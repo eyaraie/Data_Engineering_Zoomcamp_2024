@@ -1,0 +1,16 @@
+# Virtual environment
+env/
+
+# Data directories
+data/
+ny_taxi_postgres_data/
+
+# Logs
+*.log
+
+# System-specific files
+.DS_Store # For macOS
+
+# Binary files
+*.pyc
+__pycache__/
